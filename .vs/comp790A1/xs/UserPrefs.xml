@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{69768A19-EED3-481C-D99F-AF8CC574A851}|">
+  <MonoDevelop.Ide.ItemProperties.Google.XR.Cardboard PreferredExecutionTarget="3d444271-9190-4435-afca-aaa83d4654d1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BallPrefab.cs">
+    <Files>
+      <File FileName="Assets/BallPrefab.cs" Line="23" Column="10" />
+      <File FileName="Assets/ButtonClick.cs" />
+      <File FileName="Assets/ScoreManager.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="comp790A1" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Samples" expanded="True">
+                <Node name="Google Cardboard XR Plugin for Unity" expanded="True">
+                  <Node name="1.25.0" expanded="True">
+                    <Node name="Hello Cardboard" expanded="True">
+                      <Node name="Scripts" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="dcfc40b9-8140-4d2b-8ec7-a384470e6e03" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
