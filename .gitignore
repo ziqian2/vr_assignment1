@@ -3,8 +3,6 @@
 # Ignore Unity temporary files and folders
 [Tt]emp/
 [Oo]bj/
-[Bb]uild/
-[Bb]uilds/
 [Ll]ibrary/
 [Ll]ogs/
 [Uu]serSettings/
